@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Dark Green Theme for Visual Studio Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Theme Preview](public/images/herone.png)
 
-## Available Scripts
+## Overview
+The Dark Green Theme is a visually striking and elegant color scheme designed specifically for Visual Studio Code. It offers a soothing dark green palette that provides a unique and immersive coding experience.
 
-In the project directory, you can run:
+## Features
+- Beautiful and harmonious dark green color scheme
+- Thoughtfully chosen syntax highlighting for various programming languages
+- Consistent and readable typography
+- Optimized for improved focus and productivity
 
-### `npm start`
+## Installation
+To install the Dark Green Theme in Visual Studio Code, follow these steps:
+1. Launch Visual Studio Code.
+2. Go to the Extensions view (Ctrl+Shift+X).
+3. Search for "Nova noir" and click on the install button.
+4. Once installed, go to the Preferences (File > Preferences) and select "Color Theme".
+5. Choose the "Dark Green Theme" from the list of available themes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Customization
+The Noir Dark Green Theme can be easily customized to suit your preferences. To make modifications:
+1. Go to the Preferences (File > Preferences) and select "Settings".
+2. Search for "Dark Green Theme" in the settings search bar.
+3. Adjust the theme's settings, such as the brightness or contrast, to your liking.
 
-### `npm test`
+## Usage and Tips
+- Use keyboard shortcuts and Visual Studio Code's powerful features to enhance your coding experience with the Dark Green Theme.
+- Customize your editor layout and font settings to complement the theme and maximize readability.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contribution
+Contributions to the Dark Green Theme are welcome! If you encounter any issues or have suggestions for improvements, please submit them through the GitHub issue tracker.
 
-### `npm run build`
+## License
+This theme is licensed under the [MIT License](LICENSE).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Related Links
+- [Live Site](https://novanoir.vercel.app/)
+- [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=atatijr.nova-noir-dark)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy coding with the Dark Green Theme!
